@@ -1,0 +1,8 @@
+{
+  "name": "Groomer Branch 2",
+  "description": "A premium, boutique grooming experience for the modern gentleman, featuring traditional craftsmanship and luxury styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
